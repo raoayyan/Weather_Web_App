@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Create your .env file at root level and sign up to WeatherApi and you will get Api key past it into you env file with env variable specified in codiing and then simply run by doing npm start.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
